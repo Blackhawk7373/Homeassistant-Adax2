@@ -1,1 +1,9 @@
-
+{
+  "domain": "adax_2",
+  "name": "Adax_2",
+  "documentation": "https://github.com/Blackhawk7373/homeassistant-adax2",
+  "dependencies": [],
+  "codeowners": ["@Blackhawk7373"],
+  "version": "0.0.1",
+  "iot_class": "cloud_polling"
+}
