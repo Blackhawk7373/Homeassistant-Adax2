@@ -1,6 +1,6 @@
 {
-  "domain": "adax_2",
-  "name": "Adax_2",
+  "domain": "adax2",
+  "name": "Adax2",
   "documentation": "https://github.com/Blackhawk7373/homeassistant-adax2",
   "dependencies": [],
   "codeowners": ["@Blackhawk7373"],
