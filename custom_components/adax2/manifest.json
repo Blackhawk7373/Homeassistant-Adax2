@@ -4,6 +4,9 @@
   "documentation": "https://github.com/Blackhawk7373/homeassistant-adax2",
   "dependencies": [],
   "codeowners": ["@Blackhawk7373"],
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "requirements": [
+    "sanction"
+  ],
   "iot_class": "cloud_polling"
 }
